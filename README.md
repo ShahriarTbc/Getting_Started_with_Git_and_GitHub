@@ -13,7 +13,7 @@ This repository contains:
 To get started with this project, simply clone the repository:
 
 ```bash
-git clone https://github.com/riponxd/coursera.git
+git clone https://github.com/ShahriarTbc/coursera.git
 
 
 # # Update in README.md
