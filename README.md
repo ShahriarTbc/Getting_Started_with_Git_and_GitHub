@@ -2,6 +2,9 @@
 
 This is a simple project created as part of the **"Getting Started with Git and GitHub"** course by IBM on Coursera.
 
+## Live Demo
+[View on GitHub Pages](https://shahriartbc.github.io/coursesera/)
+
 ## 📁 Project Structure
 
 This repository contains:
@@ -19,6 +22,3 @@ git clone https://github.com/ShahriarTbc/coursera.git
 # # Update in README.md
 
 # This is a test for merge via pull request.
-
-## Live Demo
-[View on GitHub Pages](https://shahriartbc.github.io/coursesera/)
