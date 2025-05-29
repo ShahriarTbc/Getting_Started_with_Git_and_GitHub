@@ -16,7 +16,7 @@ To get started with this project, simply clone the repository:
 git clone https://github.com/riponxd/coursera.git
 
 
-# # Update in README.md
+# Update in README.md
 
-# This is a test for merge via pull request.
+This is a test for merge via pull request.
 
