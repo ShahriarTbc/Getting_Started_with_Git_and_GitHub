@@ -20,3 +20,5 @@ git clone https://github.com/ShahriarTbc/coursera.git
 
 # This is a test for merge via pull request.
 
+## Live Demo
+[View on GitHub Pages](https://shahriartbc.github.io/coursesera/)
