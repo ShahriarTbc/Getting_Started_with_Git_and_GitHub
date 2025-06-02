@@ -3,7 +3,7 @@
 This is a simple project created as part of the **"Getting Started with Git and GitHub"** course by IBM on Coursera.
 
 ## Live Demo
-[View on GitHub Pages](https://shahriartbc.github.io/coursesera/)
+[View on GitHub Pages](https://shahriartbc.github.io/Getting_Started_with_Git_and_GitHub/)
 
 ## 📁 Project Structure
 
